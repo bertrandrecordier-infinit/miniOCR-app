@@ -30,4 +30,4 @@ if uploaded_file is not None:
         text = "\n".join(results)
 
     st.subheader("Extracted Text")
-    st.text_area("Text Output_
+    st.text_area("Text Output", text, height=300)
