@@ -1,4 +1,6 @@
 streamlit
-pytesseract
 Pillow
 PyMuPDF
+easyocr
+numpy
+torch
